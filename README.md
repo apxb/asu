@@ -1,4 +1,4 @@
-asu
+ASU GIT Program
 ===
 
-ASU Projects
+Course Related Projects
